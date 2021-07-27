@@ -22,8 +22,11 @@ WindowsOSのPCであればある程度操作出来ていたのに、macOSのPC�
 macOSの基本操作を学ぶ際、ショートカットキー忘れた際の確認に利用して頂く事を想定しております。
 
 ## 設計書
-__こちらには何を記載すればよいのかわかりませんでした・・・・・__
-__ご教示いただければと思います。__
+- [ワイヤーフレーム user](https://drive.google.com/file/d/1mrq6bQpZNVoWMoDa2VeeBcewuBaHaMS1/view?usp=sharing)
+- [ワイヤーフレーム admin](https://drive.google.com/file/d/1c3cWKo3Vja3cj8q5p0hLzhpzJGS5eg1n/view?usp=sharing)
+- [ER図](https://drive.google.com/file/d/10QBTlni582RYH0naqTIxYFXvLTv9mI9k/view?usp=sharing)
+- [テーブル定義書](https://docs.google.com/spreadsheets/d/1CroDF0SCFFlxzevfvxjDPglZtDhrVdz6DZnG74Rt484/edit?usp=sharing)
+
 
 ## チャレンジ要素一覧
 <https://docs.google.com/spreadsheets/d/1qezsFaUmWsybeOPmRU_-TvyF4LB5GMSJ1RB9qTMIfug/edit#gid=0>
